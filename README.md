@@ -21,7 +21,7 @@ The university will overcome some of the problems like :-
 All this will be made to achive a common goal of maintaining and managing the details of each student.
 
 ## Objectives
-This are some of the goals tow-ards archiving our goals:
+This are some of the goals towards archiving our goals:-
 - Design and develop new student registration interface
 - design and develop users interface
 - develop result interface
